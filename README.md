@@ -1,6 +1,6 @@
 # Google Hashcode 2019 - Photo slideshow
 By 🍆 Bainjan 🍆  *Team*
-An Implementation of solution for Google Hashcode 2019 Qualification Round Question using javascript
+An Implementation of solution for Google Hashcode 2019 Qualification Round Question
 
 
 
