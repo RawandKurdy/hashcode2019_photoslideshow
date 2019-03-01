@@ -1,0 +1,12 @@
+{
+  "name": "google_photo_slideshow_problem",
+  "version": "1.0.0",
+  "description": "An Implementation of solution for Google Hashcode 2019 Qualification Round Question using javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@BainjanTeam",
+  "license": "GPL3"
+}
